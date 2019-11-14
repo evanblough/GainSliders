@@ -17,10 +17,12 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    sliderlayout.cpp
 
 HEADERS += \
-    mainwindow.h
+    mainwindow.h \
+    sliderlayout.h
 
 FORMS += \
     mainwindow.ui
